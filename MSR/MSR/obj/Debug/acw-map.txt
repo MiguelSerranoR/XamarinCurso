@@ -1,0 +1,4 @@
+MSR.MainActivity, MSR;md5c99b1230b961123e59867f203cedcb5e.MainActivity
+MSR.MainActivity, MSR, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c99b1230b961123e59867f203cedcb5e.MainActivity
+MSR.MainActivity;md5c99b1230b961123e59867f203cedcb5e.MainActivity
+msr.MainActivity;md5c99b1230b961123e59867f203cedcb5e.MainActivity
